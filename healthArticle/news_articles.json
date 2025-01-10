@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Times"
+      },
+      "author": "Alex Harper",
+      "title": "Innovative Tech Start-Up Revolutionizes Transportation",
+      "description": "A groundbreaking tech start-up has unveiled a new transportation system that promises to change the way we travel.",
+      "url": "https://example.com/news/tech-startup",
+      "urlToImage": "https://example.com/images/tech-startup.jpg",
+      "publishedAt": "2025-01-10T09:00:00Z",
+      "content": "The innovative start-up, TransTech, has introduced a state-of-the-art transportation system that leverages cutting-edge technology to offer unprecedented speed and efficiency. The new system, which includes self-driving electric vehicles and hyperloop technology, aims to reduce travel time between cities by up to 80%. The company's CEO, Jane Doe, believes this innovation will significantly impact both urban and intercity travel, making it more accessible and environmentally friendly."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Global News Network"
+      },
+      "author": "Samuel Kim",
+      "title": "Global Environmental Summit Yields Promising Agreements",
+      "description": "World leaders have reached significant agreements at the Global Environmental Summit to combat climate change.",
+      "url": "https://example.com/news/environmental-summit",
+      "urlToImage": "https://example.com/images/environmental-summit.jpg",
+      "publishedAt": "2025-01-09T15:30:00Z",
+      "content": "At the recent Global Environmental Summit, leaders from over 100 countries have signed groundbreaking agreements to reduce carbon emissions and invest in renewable energy sources. Key initiatives include a commitment to phase out coal-powered plants by 2030 and a substantial increase in funding for solar and wind energy projects. These agreements mark a significant step forward in global efforts to address the pressing issue of climate change."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health Today"
+      },
+      "author": "Emily Zhang",
+      "title": "New Breakthrough in Cancer Research Offers Hope",
+      "description": "Scientists have made a major breakthrough in cancer research, potentially leading to more effective treatments.",
+      "url": "https://example.com/news/cancer-research",
+      "urlToImage": "https://example.com/images/cancer-research.jpg",
+      "publishedAt": "2025-01-08T08:00:00Z",
+      "content": "Researchers at the National Cancer Institute have announced a significant breakthrough in cancer research. They have developed a new targeted therapy that shows promise in treating various forms of cancer with fewer side effects. The therapy, which targets specific genetic mutations found in cancer cells, has demonstrated remarkable efficacy in early clinical trials. This breakthrough brings renewed hope to millions of patients and represents a major milestone in the fight against cancer."
+    }
+  ]
+}
